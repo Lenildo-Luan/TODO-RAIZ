@@ -8,4 +8,4 @@ Este todo list criado somente com HTML, CSS e Javascript é ótimo tanto para vo
 ![Todo list](./assets/todolist.png)
 
 - Aula #2: Criação do HTML e CSS do nosso Todo - [link](https://www.youtube.com/watch?v=VeZ4H9qiW6o)
-- Aula #3: Criação Javascript do nosso Todo - [link](https://www.youtube.com/watch?v=MmLvHQTKDj0&t=2756s)
+- Aula #3: Criação Javascripr do nosso Todo - [link](https://www.youtube.com/watch?v=MmLvHQTKDj0&t=2756s)
