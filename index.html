@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo list raiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="todoList">
+        <div class="header">
+            <h1>Lista de tarefas</h1>
+            <input type="text" id="mainInput" placeholder="Adicione a atividade">
+            <span onclick="newElement()" class="todoButton">Add</span>
+        </div>
+    
+        <ul id="myTodoList">
+            <li class="checked">Ir a academia</li>
+            <li>Fazer postagem no instagram</li>
+            <li>Se preparar para a próxima live</li>
+            <li>Passear com o cachorro</li>
+            <li>Estudar</li>
+        </ul>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>
